@@ -23,7 +23,7 @@ while(True):
 
 #La funcion de este metodo es verificar si todo el texto esta en mayusculas 
 #Si todo el texto esta en mayuscula dara true
-'''
+
 text= "CALI"
 print(text.isupper())
 text2="HOLA MUNDO, ESTOY PROGRAMANDO PYTHON"
@@ -40,7 +40,7 @@ text6="¡CARRERA 23 #10¡"
 print(text6.isupper())
 text7="Calle 3 N°4"
 print(text7.isupper())
-'''
+
 #Join
 #Sirve para contatenar elementos string, no funciona si hay int o float
 texto="Hola", "mundo", "Python"
