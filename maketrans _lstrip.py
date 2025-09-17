@@ -84,3 +84,4 @@ print(repr(Frase.lstrip('aeiou')))
 print(Frase, type(Frase.lstrip('aeiou')))
 
 
+
