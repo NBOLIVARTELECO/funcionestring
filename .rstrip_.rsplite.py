@@ -48,3 +48,4 @@ else:
 var2 = input("coloque una lista de cosas separadas por comas que le gusten: ") #"Extrae" y dide cadenas de texto mediente un parametro que indica donde cortar la cadena y otra en cuantas partes.
 
 print(var2.rsplit(",",len(var2))) # Se usa la función "len" que devuelve un entero que va a hacer como parametro divisorio en la cadena de texto, de esa manera el usuario puede colocar cuantas cosas quiera en su cadena.
+
